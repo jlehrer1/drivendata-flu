@@ -4,7 +4,7 @@ Description: Can you predict whether people got H1N1 and seasonal flu vaccines u
 
 To generate the production environment, run
 ```
-conda env create <NAME> --file environment.yml
+conda env create --file environment.yml
 ```
 
 
